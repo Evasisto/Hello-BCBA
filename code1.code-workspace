@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "/Users/jp/Desktop/javacode"
 		}
-	]
+	],
+	"settings": {
+		"python.dataScience.jupyterServerURI": "https://www.icloud.com/iclouddrive/0RRKQPtMPZlm0Xa0BkKmp8-yQ#VS_code"
+	}
 }
